@@ -1,0 +1,12 @@
+body {
+    background-image: url(https://images.pond5.com/game-show-background-loop-footage-089414224_prevstill.jpeg);
+    text-align: center;
+}
+
+.last-seconds {
+    color: red;
+}
+
+.option {
+    margin: 15px;
+}
